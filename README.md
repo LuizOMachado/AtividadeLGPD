@@ -19,7 +19,8 @@ O script atende aos quatro requisitos do projeto:
 
 ## Configuração do Ambiente
 
-1. Clone o repositório para a sua máquina local.
+Clone o repositório para a sua máquina local.
 git clone https://github.com/LuizOMachado/AtividadeLGPD
-2. Instale as dependências do projeto executando o comando abaixo no terminal:
+
+Instale as dependências do projeto executando o comando abaixo no terminal:
 pip install -r requirements.txt

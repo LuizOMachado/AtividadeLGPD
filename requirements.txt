@@ -1,0 +1,6 @@
+Faker
+greenlet
+psycopg2-binary
+SQLAlchemy
+typing_extensions
+tzdata

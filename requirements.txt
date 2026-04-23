@@ -4,3 +4,4 @@ psycopg2-binary
 SQLAlchemy
 typing_extensions
 tzdata
+python-dotenv

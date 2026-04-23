@@ -1,2 +1,1 @@
-AtividadeLGPD
-Fatec
+# AtividadeLGPD
